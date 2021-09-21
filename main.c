@@ -3,5 +3,4 @@ main() {
 factorial();
 biggest();
 reverse();
-palindrome();
 }
