@@ -8,5 +8,3 @@ fact.o:fact.c
         gcc -c fact.c
 rev.o:rev.c
         gcc -c rev.c
-palindrome.o:palindrome.c
-        gcc -c palindrome.c
